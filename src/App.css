@@ -36,3 +36,10 @@
     transform: rotate(360deg);
   }
 }
+
+canvas {
+  height: 600px;
+  width:100%;
+  border: 1px solid;
+  max-width: 800px;
+}
